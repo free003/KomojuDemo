@@ -1,5 +1,5 @@
 # KomojuDemo
-a very simple komoju demo, u should run npm to aquire dependencies:
+a very simple komoju demo, u should run npm to acquire dependencies:
 ```
 npm install
 ```
